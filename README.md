@@ -1,2 +1,3 @@
-# Plagiarism-checker
-Website to check the percentage of plagiarized text  and also provides the sources from where the text is plagiarized
+# PlagiarismDetector
+Plagiarism Detector project for ThePythonWeek for team ByteLoL.  
+Tech Stack: Python, flask, beautifulsoup4, HTML, CSS, JavaScript.
